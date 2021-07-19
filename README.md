@@ -1,2 +1,2 @@
 # pixelcaso
-Pixel drawing app by PacoLemon
+This will serve as app documentation until the release date. Checkout Wiki page.
